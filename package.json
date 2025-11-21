@@ -1,0 +1,9 @@
+{
+  "name": "farcaster-miniapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "viem": "latest",
+    "wagmi": "latest",
+    "@neynar/nodejs-sdk": "latest"
+  }
+}
